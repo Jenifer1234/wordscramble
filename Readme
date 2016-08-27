@@ -1,0 +1,22 @@
+1. 1.  PROBLEM STATEMENT:
+	The game “Word Scramble” is to build jumbled letters into as many words as possible words before the timer runs out. 
+	A scrambled word will be given to the player and the player has to frame as many words as possible within the given time.
+	The game can be continued by the player till the timer expires. One who generates the maximum number of words turns out to be the winner of the game.
+1.2. FEATURES:
+•	Time duration is fixed for the game .
+•	Random scrambled words are displayed  each time.
+•	Final scores are displayed to declare the winner.
+1.3. SCOPE OF THE PROJECT:
+•	To develop a text-based game that engages the users’ interest and meets all the users’ requirements. 
+•	To develop the game in a tested and well-documented way, so that it will be easily extendable onto other platforms such as mobile devices in the future.
+2. WORKING ENVIRONMENT:
+Hardware:
+Intel(R)Core(TM)i7-3612QM CPU @ 2.10 GHz     
+8 GB RAM
+64-bit Windows Operating System
+800 GB HDD
+Software:
+JDK 1.7.0_17
+Java(TM) SE Runtime Environment
+Java Hot Spot(TM) Client VM 
+WordNet 2.1
